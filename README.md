@@ -1,1 +1,1 @@
-# -event-first_program
+# event-first_program
